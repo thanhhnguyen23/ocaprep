@@ -1,6 +1,6 @@
 package ocaprep.ch01;
 
-public class ReviewQuestions {
+public class ReviewQuestion01 {
 	public static void main(String[] args) {
 		
 	/* examples of valid java identifiers

@@ -1,5 +1,8 @@
 package ocaprep.ch01;
 
+/*
+ * Review Question 2
+ */
 public class WaterBottle {
 	private String brand; // Strings are null by default
 	private Boolean empty; // booleans are false by default

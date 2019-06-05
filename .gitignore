@@ -1,6 +1,9 @@
 # Compiled class file
 *.class 
 
+# spring tool suite directory
+.sts4-cache/
+
 # Log file 
 *.log 
 

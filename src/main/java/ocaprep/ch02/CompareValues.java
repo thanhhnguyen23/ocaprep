@@ -23,7 +23,7 @@ public class CompareValues{
         // experimenting so code compiles
         //-------------------------------------------------------------------------------- 
         // experiment 1
-//        String message = x > 10 ? "Greater than" : "Less than"; 
+        String message = x > 10 ? "Greater than" : "Less than"; 
 
         // experiment 2
 //        String message = x > 10 ? true: false; // boolean/String mismatch; must return String but boolean is provided

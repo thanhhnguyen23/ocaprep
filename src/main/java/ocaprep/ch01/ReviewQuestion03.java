@@ -17,9 +17,8 @@ public class ReviewQuestion03 {
 //		numPets.length() // false: short is a primitive data type
 //		numGrains.length // false: int is a primitive data type
 //		name.length(); 	 // true: String is a wrapper class that has length() method
-		
+
 //		System.out.println();
 		
 	}
-
 }

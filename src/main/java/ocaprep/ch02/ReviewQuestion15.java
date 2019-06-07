@@ -8,6 +8,7 @@ public class ReviewQuestion15 {
 
 	public static void main(String[] args) {
 
+		// instance variable
 		int x = 1, y = 15;
 		// original question
 		// while x < 10 // condition must be within () parenthesis
@@ -15,7 +16,7 @@ public class ReviewQuestion15 {
 		/*
 		 * x < 10 --> 9 iterations
 		 */
-		while (x < 10) { // modified so code can compile
+		while (x < 10) { // code compiles
 			/*
 			 * y variable decrements
 			 * x variable increments

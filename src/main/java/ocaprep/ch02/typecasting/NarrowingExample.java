@@ -17,4 +17,5 @@ public class NarrowingExample {
 		System.out.println(myDouble); 	// output: 12.34
 		System.out.println(myInt); 		// output: 12
 	}
+
 }

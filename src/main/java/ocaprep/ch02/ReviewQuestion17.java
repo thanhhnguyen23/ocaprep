@@ -13,19 +13,35 @@ public class ReviewQuestion17 {
 
         do {
             // local variable
-            i--; // i -> 10, 9
+            i--; 
             /*
+             * if statement will always hit and "fall throw" whether or not condition is true/false
              * without if conditional block will cause infinite loop
+             * 		> do-while loop continues until equality is broken
              */
             if (i == 8)
-                keepGoing = false; // i -> 9; keepGoing -> false;
-            result -= 2; // result: 15, result -> 15 - 2
+                keepGoing = false; 
+            result -= 2; 
         }
         /*
-         * keepGoing is accessing the instance variable --> true; but will result in
-         * false when keepGoing is assigned to false when i is assigned the value of 8
+         * when keepGoing -> false
+         * 		> breaks equality and output will be triggered
          */
         while (keepGoing);
-        System.out.println(result); // output:
+        System.out.println(result); // output: 11
     }
+    
+    /*
+     * Summary: 
+     * -------------------
+     * i -> 10, 9
+     * result -> 15, 13
+     * keepGoing -> true
+     * 
+     * i -> 9, 8
+     * result -> 13, 11
+     * keepGoing -> false
+     * 
+     * output: 11
+     */
 }

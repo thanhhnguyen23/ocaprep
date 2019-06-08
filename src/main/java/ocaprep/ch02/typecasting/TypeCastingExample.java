@@ -10,12 +10,8 @@ public class TypeCastingExample {
 	 * 3. otherwise, if one of the operands is long data type, the other is promoted to long before the operation is carried out
 	 * 4. otherwise, if either operand is an integer data type, the other operand is promoted to int
 	 * 5. if neither operand is double, float, long or int, both operands are promoted to int	
-	 * 
 	 */
 
-	//TODO - look for good examples to demonstrate type casting(narrowing)
-	//TODO - assign larger data types to smaller data types
-	
 	/*
 	 * assigning smaller data type to larger data type
 	 * widening example

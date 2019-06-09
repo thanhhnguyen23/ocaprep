@@ -10,8 +10,21 @@ public class NumericPromotionExample {
 	 * 		3.1 byte
 	 * 		3.2 short
 	 * 		3.3 char
-	 * 4. after all promoition has occured and the operands have the same data type, the resulting value will have teh same data type as its promoted operands
+	 * 4. after all promotion has occurred and the operands have the same data type, the resulting value will have teh same data type as its promoted operands
 	 * p.102
+	 * 
+	 */
+	
+	/*
+	 * java primitive data types
+	 * 		- boolean
+	 * 		- byte
+	 * 		- short
+	 * 		- int
+	 * 		- long
+	 * 		- float
+	 * 		- double
+	 * 		- char
 	 */
 	
 

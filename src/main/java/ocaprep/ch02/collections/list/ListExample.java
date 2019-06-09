@@ -19,10 +19,6 @@ public class ListExample {
 		
 		// getting rid of the last comma (, ) for last value
 		//-------------------------------------------------------------------------------- 
-		
-		//-------------------------------------------------------------------------------- 
-		//TODO -- come back to check to see what's wrong with debugger?
-		//-------------------------------------------------------------------------------- 
 
 		for (int i = 0; i < names.size(); i++) {
 //			System.out.println(names.get(i)); // getting names 

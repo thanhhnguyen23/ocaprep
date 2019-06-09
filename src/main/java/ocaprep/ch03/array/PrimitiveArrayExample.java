@@ -9,5 +9,11 @@ public class PrimitiveArrayExample {
 		 * size of array: [3]
 		 */
 		int[] numbers = new int[3]; // create array of type int named numbers, and initialize array size of 3
+		
+		
+		/*
+		 * another way to create any array to specify all the elements
+		 */
+		int[] numbers2 = new int[] {42, 55, 99};
 	}
 }

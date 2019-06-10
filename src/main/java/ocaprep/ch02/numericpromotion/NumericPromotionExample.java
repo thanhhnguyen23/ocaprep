@@ -14,6 +14,12 @@ public class NumericPromotionExample {
 	 * 
 	 * p.102
 	 */
+
+	/*
+	 * set of rules java applies to expressions as they are evaluated if the operands are certain types 
+	 *  	> byte/char/short are promoted to int 
+	 *  	> long/float/double then the entire expression evaluated will be long/float/double
+	 */
 	
 	/*
 	 * java primitive data types

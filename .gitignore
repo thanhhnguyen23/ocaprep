@@ -4,6 +4,12 @@
 # vscode
 .vscode
 
+# intellij/idea directory
+.idea/
+*iml
+.DS_Store
+
+
 # spring tool suite directory
 .sts4-cache/
 
@@ -103,3 +109,4 @@ hibernate.cfg.xml
 
 # target folder
 target/
+

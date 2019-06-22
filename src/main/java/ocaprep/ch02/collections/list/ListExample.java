@@ -2,6 +2,14 @@ package ocaprep.ch02.collections.list;
 
 public class ListExample {
 
+	/*
+	 * store an ArrayList in a List reference variable
+	 * 
+	 * BUT YOU CANNOT
+	 * store a List in an ArrayList reference variable
+	 * 
+	 * because List is an interface and cannot be instanitated
+	 */
 	public static void main(String[] args) {
 		/*
 		 * will it compile?

@@ -4,23 +4,10 @@ public class StringBuilderExample {
     public static void main(String[] args) {
 //        stringBuilderReverse();
 //        reverseStringIteratively();
-        reverseRecusively("abc");
-    }
-
-    private static void reverseRecusively(String str) {
-        // reverse a string recursively without any built-in libraries
-
-        if (str == null || str.length() <= 1){
-            System.out.println(str);
-        }
-        else{
-            System.out.print(str.charAt(str.length() - 1));
-            reverseRecusively(str.substring(0,str.length() - 1));
-        }
     }
 
     private static void reverseStringIteratively() {
-        // reverse a string iteratively without any libraries
+        // reverse a string iteratively without any bult-in libraries
 //        String s2 = "abc";
 //        String reversedString = "";
 //

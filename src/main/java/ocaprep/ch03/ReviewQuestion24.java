@@ -1,8 +1,5 @@
 package ocaprep.ch03;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class ReviewQuestion24 {
     public static void main(String[] args) {
         // what is the result of the following
